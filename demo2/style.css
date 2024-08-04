@@ -1,0 +1,178 @@
+@media screen /*電腦*/
+{
+     body
+     {
+          background-image:linear-gradient(to top,#33B6FF,#33FFEE);
+          color:blueviolet;
+          font-size:large;
+          margin-left: 10px;
+          margin-top: 10px;
+          margin-right: 10px;
+          margin-bottom: 10px;
+          padding-top:0 !important;
+     }
+     img
+     {
+          height: 300px;
+          width: 500px;
+     }
+
+     h1
+     {
+          font-style:oblique;
+          color:red;
+          font-size:xx-large;
+     }
+     h2
+     {
+          font-style:oblique;
+          color:rgb(36, 114, 68);
+          font-size:x-large;
+     }
+     h3
+     {
+          font-style:oblique;
+          font-family:Arial, Helvetica, sans-serif;
+          color:black;
+          font-size:large;
+          font-weight:bold;
+     }
+     h4
+     {
+          font-family:cursive,serif;
+          color:#F4FF00;
+          font-size:x-large;
+          font-weight:400;
+     }
+     p
+     {
+          font-family:DFKai-sb;
+          color:whitesmoke;
+          font-size:large;
+          
+     }
+     ul
+     {
+          color:whitesmoke;
+          font-size:large;
+     }
+}
+
+@media screen and (min-width:320px) and (max-width:480px)/*手機*/
+{
+     body
+     {
+          background-image:linear-gradient(to top,#33B6FF,#33FFEE);
+          color:blueviolet;
+          font-size:large;
+          margin-left: 10px;
+          margin-top: 10px;
+          margin-right: 10px;
+          margin-bottom: 10px;
+          padding-top:0 !important;
+     }
+     img
+     {
+          height: 300px;
+          width: 500px;
+     }
+
+     h1
+     {
+          font-style:oblique;
+          color:red;
+          font-size:xx-large;
+     }
+     h2
+     {
+          font-style:oblique;
+          color:rgb(36, 114, 68);
+          font-size:x-large;
+     }
+     h3
+     {
+          font-style:oblique;
+          font-family:Arial, Helvetica, sans-serif;
+          color:black;
+          font-size:large;
+          font-weight:bold;
+     }
+     h4
+     {
+          font-family:cursive,serif;
+          color:#F4FF00;
+          font-size:x-large;
+          font-weight:400;
+     }
+     p
+     {
+          font-family:DFKai-sb;
+          color:whitesmoke;
+          font-size:large;
+          
+     }
+     ul
+     {
+          color:whitesmoke;
+          font-size:large;
+     }
+}
+@media screen and(min-width:481px)and (max-width:768px)/*平板電腦*/
+{
+     body
+     {
+          background-image:linear-gradient(to top,#33B6FF,#33FFEE);
+          color:blueviolet;
+          font-size:large;
+          margin-left: 10px;
+          margin-top: 10px;
+          margin-right: 10px;
+          margin-bottom: 10px;
+          padding-top:0 !important;
+     }
+     img
+     {
+          height: 300px;
+          width: 500px;
+     }
+
+     h1
+     {
+          font-style:oblique;
+          color:red;
+          font-size:xx-large;
+     }
+     h2
+     {
+          font-style:oblique;
+          color:rgb(36, 114, 68);
+          font-size:x-large;
+     }
+     h3
+     {
+          font-style:oblique;
+          font-family:Arial, Helvetica, sans-serif;
+          color:black;
+          font-size:large;
+          font-weight:bold;
+     }
+     h4
+     {
+          font-family:cursive,serif;
+          color:#F4FF00;
+          font-size:x-large;
+          font-weight:400;
+     }
+     p
+     {
+          font-family:DFKai-sb;
+          color:whitesmoke;
+          font-size:large;
+          
+     }
+     ul
+     {
+          color:whitesmoke;
+          font-size:large;
+     }
+}

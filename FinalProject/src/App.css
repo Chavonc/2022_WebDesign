@@ -1,0 +1,33 @@
+* {
+  margin:40;
+}
+
+.app{
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.app__header{
+  background-color:white;
+  /* 高度 padding = inside ;margin = outside*/
+  padding: 30px; 
+  border-bottom: 10px solid lightgray;
+  height: 70px;
+  width: 442px;
+  /* 固定不變 */
+  object-fit: contain;
+
+}
+
+.app__signup{
+  display: flex;
+  flex-direction: column;
+}
+
+.app__signin{
+  display: flex;
+  
+  flex-direction: column;
+}
+
+

@@ -1,0 +1,35 @@
+.post{
+     background-color: white;
+     max-width: 500px;
+     border: 1px solid lightgray;
+     margin-bottom: 40px;
+     /* 貼文間控隔 */
+}
+
+.post__image{
+     width: 100%;
+     object-fit: contain;
+     border-top: 1px solid lightgray;
+     border-bottom: 1px solid lightgray;
+}
+
+.post__text{
+     font-weight: normal;
+     padding: 5px;
+}
+
+.post__header{
+     display:flex; 
+     /* 同一行 */
+     align-items: center;
+     /* 置中 */
+     padding: 10px;
+    
+}
+
+.post__avatar{
+     margin-right: 10px;
+     /* 右方保持空隔 */
+
+}
+
